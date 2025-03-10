@@ -1,0 +1,32 @@
+// Prueba con Switch, Print e Input
+X := 2;
+switch (X){
+	case 1: 
+		input("Ingrese un numero: ", W);
+		break_case;
+	case 2:
+		print("Hola, caso 2");
+		print("Hola, caso 2");
+		print("Hola, caso 2");
+	default: 
+		print("Caso default");
+};
+
+print("\n---------------\n");
+
+Y := 1;
+switch (Y){
+	case 1: 
+		input("Ingrese un numero: ", W);
+		print("Su numero ingresado es: ", W);
+		break_case;
+	case 3:
+		print("Hola, caso 3");
+		print("Hola, caso 3");
+		print("Hola, caso 3");
+		print("Hola, caso 3");
+		break_case;
+	default: 
+		print("Caso default");
+};
+

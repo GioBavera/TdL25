@@ -1,0 +1,11 @@
+// Pruebas con max
+A := 12;
+B := 45;
+A ^= B;
+print("==Numeros distintos, el mayor es: ", A);
+
+C := 32;
+D := 32;
+R1 := max(C, D);
+
+print("==Numeros Iguales, el mayor es: ", R1);

@@ -1,0 +1,11 @@
+// Pruebas con max
+A := 12;
+B := 45;
+R1 := min(A, B);
+print("==Numeros distintos, el menor es: ", R1);
+
+C := 32;
+D := 32;
+R2 := min(C, D);
+
+print("==Numeros Iguales, el menor es: ", R2);

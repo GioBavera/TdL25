@@ -1,0 +1,10 @@
+A := 10;
+B := 2;
+A %= B;
+print("Su resultado es: ", A);
+
+C := 10;
+D := 4;
+RESULTADO := mod(C, D);
+
+print("Su resultado es: ", RESULTADO);
